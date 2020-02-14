@@ -1,0 +1,25 @@
+@relation employee
+@attribute age numeric
+@attribute salary numeric
+@attribute performance {bad,fair,excellent}
+@data
+%
+10,250,bad
+15,300,bad
+20,200,bad
+25,300,bad
+10,250,fair
+15,300,fair
+20,200,fair
+25,350,fair
+10,250,excellent
+15,300,excellent
+20,350,excellent
+25,300,excellent
+12,100,bad
+14,100,bad
+14,100,fair
+14,320,excellent
+20,244,excellent
+
+%

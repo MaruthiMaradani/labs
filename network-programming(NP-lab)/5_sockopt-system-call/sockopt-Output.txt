@@ -1,0 +1,14 @@
+
+
+
+
+
+
+
+
+
+			[17k61a05f2@online np] $ vi exp5.c
+			[17k61a05f2@online np] $ cc exp5.c
+			[17k61a05f2@online np] $ ./a.out
+			PROTOCOL LEVEL>The option value is:0
+			SOCKET LEVEL>The option value is 0

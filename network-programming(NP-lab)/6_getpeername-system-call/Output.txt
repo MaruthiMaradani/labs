@@ -1,0 +1,14 @@
+
+
+
+
+
+
+
+
+
+		[17k61a05f2@online np] $ vi exp6.c
+		[17k61a05f2@online np] $ cc exp6.c
+		[17k61a05f2@online np] $ ./a.out
+		Peer IP address: 127.0.0.1
+		Peer port : 8282

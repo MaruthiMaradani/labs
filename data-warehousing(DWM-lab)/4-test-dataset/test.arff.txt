@@ -1,0 +1,25 @@
+@relation test
+@attribute products{mobile,bulb,dresses,shoes,watches}
+@attribute company{mi,asus,lenovo,apple,philips,paragon,vkc,trends,fastrack,titan}
+@attribute year{2010,2015,2018,2017,2019}
+@attribute madein{india,china,japan,usa,kanche}
+@attribute stock_available{5000,200,3000,4000,1000,1500}
+@attribute products_sold_per_day{20-50,30-120,40-80,30-100}
+@data
+%
+mobile,apple,2018,india,5000,30-120
+bulb,philips,2010,india,1000,30-120
+dresses,trends,2019,kanche,4000,40-80
+shoes,paragon,2015,china,4000,40-80
+watches,fastrack,2018,usa,5000,30-120
+watches,titan,2010,india,4000,30-100
+shoes,vkc,2017,india,1500,40-80
+watches,fastrack,2017,usa,5000,40-80
+mobile,asus,2019,india,4000,20-50
+mobile,lenovo,2015,china,4000,40-80
+mobile,mi,2018,japan,5000,40-80
+dresses,trends,2017,kanche,5000,40-80
+bulb,philips,2015,india,1000,30-120
+dresses,trends,2018,kanche,4000,40-80
+shoes,paragon,2017,china,4000,40-80
+%

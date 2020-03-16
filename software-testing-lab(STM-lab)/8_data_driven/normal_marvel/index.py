@@ -1,4 +1,3 @@
-Learn more or give us feedback
 from selenium import webdriver
 import time
 import xlrd
@@ -23,5 +22,7 @@ while (i < 4):
             i = i + 1
 
 print "<< Mission Terminated >>"
+
+
 
 

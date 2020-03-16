@@ -1,3 +1,4 @@
+
 import java.util.*;
 import javax.mail.*;
 import javax.mail.internet.*;
@@ -8,11 +9,10 @@ public static void main(String args[])
 {
 try
 {
-String host ="smtp.gmail.com" ;
-String user = "dhanushakasani3@gmail.com";
-String pass = "chanti@123";
-String to = "maruthimaradani@gmail.com ";
-String from = "dhanushakasani3@gmail.com";
+String host ="smtp@gmail.com" ;
+String user = "vinay5f5@sasi.ac.in";
+String pass ="aquamanhero01@gmail.com";
+String from = "vinay5f5@sasi.ac.in";
 String subject = "This is confirmation number for your expertprogramming account. Please insert this number to activate your account.";
 String messageText = "Your Is Test Email :";
 boolean sessionDebug = false;
@@ -44,4 +44,5 @@ System.out.println(ex);
 }
 }
 }
+
 
